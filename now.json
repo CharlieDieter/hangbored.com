@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "env": {
+    "MONGODB_URI": "@hangbored-mongo-uri"
+  },
+  "functions": {
+    "api/emails.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  }
+}

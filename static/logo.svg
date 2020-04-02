@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 118.1 45.5" style="enable-background:new 0 0 118.1 45.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#2B2CE5;}
+	.st2{filter:url(#luminosity-invert);}
+	.st3{mask:url(#mask_1_);}
+	.st4{opacity:0.35;}
+	.st5{mask:url(#mask-2_1_);}
+	.st6{mask:url(#mask-3_1_);}
+	.st7{mask:url(#mask-4_1_);}
+	.st8{mask:url(#mask-5_1_);}
+	.st9{mask:url(#mask-6_1_);}
+</style>
+<filter  color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" id="luminosity-invert">
+	<feColorMatrix  values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"></feColorMatrix>
+</filter>
+<g>
+	<g id="back">
+		
+			<image style="overflow:visible;opacity:0.53;enable-background:new    ;" width="484" height="175" xlink:href="E03B096FE1C9F4A7.png"  transform="matrix(0.24 0 0 0.24 1.92 3.4741)">
+		</image>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="96" y1="7.2254" x2="96" y2="-22.5146" gradientTransform="matrix(1 0 0 -1 -37.92 14.7695)">
+			<stop  offset="0" style="stop-color:#2B2CE5"/>
+			<stop  offset="0.27" style="stop-color:#2A32E8"/>
+			<stop  offset="0.63" style="stop-color:#2744F0"/>
+			<stop  offset="1" style="stop-color:#235DFC"/>
+		</linearGradient>
+		<path class="st0" d="M110.1,11.5v21.7c0,2.2-1.8,4-4,4h-96c-2.2,0-4-1.8-4-4V11.5c0-2.2,1.8-4,4-4h96
+			C108.3,7.5,110.1,9.3,110.1,11.5z"/>
+		<path class="st1" d="M11.6,29.5h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+			C10.1,30.2,10.8,29.5,11.6,29.5z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="10.1" y="29.5" width="46" height="4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="10.1" y="29.5" width="46" height="4" id="mask_1_">
+			<g class="st2">
+				<g transform="translate(-37.92 -44.4)">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="209" height="34" xlink:href="E03B096FE1C9F4A5.png"  transform="matrix(0.24 0 0 0.24 45.84 71.8741)">
+					</image>
+				</g>
+			</g>
+		</mask>
+		<g class="st3">
+			<g class="st4">
+				<path d="M11.6,29.5h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+					C10.1,30.2,10.8,29.5,11.6,29.5z"/>
+			</g>
+		</g>
+		<path class="st1" d="M61.6,29.5h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+			C60.1,30.2,60.8,29.5,61.6,29.5z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="60.1" y="29.5" width="46" height="4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="60.1" y="29.5" width="46" height="4" id="mask-2_1_">
+			<g class="st2">
+				<g transform="translate(-37.92 -44.4)">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="209" height="34" xlink:href="E03B096FE1C9F4AB.png"  transform="matrix(0.24 0 0 0.24 96 71.8741)">
+					</image>
+				</g>
+			</g>
+		</mask>
+		<g class="st5">
+			<g class="st4">
+				<path d="M61.6,29.5h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+					C60.1,30.2,60.8,29.5,61.6,29.5z"/>
+			</g>
+		</g>
+		<path class="st1" d="M11.6,21.5h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+			C10.1,22.1,10.8,21.5,11.6,21.5z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="10.1" y="21.5" width="46" height="4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="10.1" y="21.5" width="46" height="4" id="mask-3_1_">
+			<g class="st2">
+				<g transform="translate(-37.92 -44.4)">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="209" height="34" xlink:href="E03B096FE1C9F4AD.png"  transform="matrix(0.24 0 0 0.24 45.84 63.7141)">
+					</image>
+				</g>
+			</g>
+		</mask>
+		<g class="st6">
+			<g class="st4">
+				<path d="M11.6,21.5h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+					C10.1,22.1,10.8,21.5,11.6,21.5z"/>
+			</g>
+		</g>
+		<path class="st1" d="M61.6,21.5h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+			C60.1,22.1,60.8,21.5,61.6,21.5z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="60.1" y="21.5" width="46" height="4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="60.1" y="21.5" width="46" height="4" id="mask-4_1_">
+			<g class="st2">
+				<g transform="translate(-37.92 -44.4)">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="209" height="34" xlink:href="E03B096FE1C9F4AF.png"  transform="matrix(0.24 0 0 0.24 96 63.7141)">
+					</image>
+				</g>
+			</g>
+		</mask>
+		<g class="st7">
+			<g class="st4">
+				<path d="M61.6,21.5h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+					C60.1,22.1,60.8,21.5,61.6,21.5z"/>
+			</g>
+		</g>
+		<path class="st1" d="M11.2,13.4h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+			C9.7,14.1,10.4,13.4,11.2,13.4z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="9.7" y="13.4" width="46" height="4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="9.7" y="13.4" width="46" height="4" id="mask-5_1_">
+			<g class="st2">
+				<g transform="translate(-37.92 -44.4)">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="209" height="35" xlink:href="E03B096FE1C9F4AC.png"  transform="matrix(0.24 0 0 0.24 45.6 55.5541)">
+					</image>
+				</g>
+			</g>
+		</mask>
+		<g class="st8">
+			<g class="st4">
+				<path d="M11.2,13.4h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+					C9.7,14.1,10.4,13.4,11.2,13.4z"/>
+			</g>
+		</g>
+		<path class="st1" d="M61.2,13.4h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+			C59.7,14.1,60.4,13.4,61.2,13.4z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_5_" filterUnits="userSpaceOnUse" x="59.7" y="13.4" width="46" height="4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="59.7" y="13.4" width="46" height="4" id="mask-6_1_">
+			<g class="st2">
+				<g transform="translate(-37.92 -44.4)">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="209" height="35" xlink:href="E03B096FE1C9F4A4.png"  transform="matrix(0.24 0 0 0.24 95.52 55.5541)">
+					</image>
+				</g>
+			</g>
+		</mask>
+		<g class="st9">
+			<g class="st4">
+				<path d="M61.2,13.4h43c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-43c-0.8,0-1.5-0.7-1.5-1.5v-1
+					C59.7,14.1,60.4,13.4,61.2,13.4z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
