@@ -1,7 +1,6 @@
 const url = require("url")
-const { nextTick } = require("process")
-const MongoClient = require("mongodb").MongoClient
 
+const MongoClient = require("mongodb").MongoClient
 // Create cached connection variable
 let cachedDb = null
 
@@ -9,6 +8,7 @@ async function connectToDatabase(uri) {
   if (cachedDb) {
     return cachedDb
   }
+
   const client = await MongoClient.connect(uri, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
@@ -18,7 +18,7 @@ async function connectToDatabase(uri) {
   return db
 }
 
-module.exports = async (req, res, next) => {
+module.exports = async (req, res) => {
   if (req.method !== "POST") res.status(405).end()
   if (!(req.body && req.body.email)) res.status(422).end()
 
@@ -33,6 +33,6 @@ module.exports = async (req, res, next) => {
       }
     })
   } catch (error) {
-    next(error)
+    res.send(400)
   }
 }

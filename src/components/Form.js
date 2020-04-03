@@ -11,30 +11,35 @@ export default () => {
 
     axios
       .post("/api/emails", { email: ref.current.value })
-      .then(s => {
+      .then(() => {
         setState({
           loading: false,
           success: true,
         })
       })
-      .catch(() => {
+      .catch(e => {
+        let err = "Something went wrong 😕"
+
+        if (e.response?.data?.errmsg?.includes("duplicate key")) {
+          err = "We already have that email 🙏"
+        }
         setState({
           loading: false,
-          err: true,
+          err,
         })
       })
   }
 
   return (
     <form onSubmit={handleSubmit} className={state.err ? "err" : ""}>
-      <div className="input-wrap">
-        {state.success ? (
-          <p className="success">
-            Thanks for signing up! <br /> You'll be the first to know about the
-            newness.
-          </p>
-        ) : (
-          <>
+      {state.success ? (
+        <p className="success">
+          Thanks for signing up! <br /> You'll be the first to know about the
+          newness.
+        </p>
+      ) : (
+        <div className="inner-form">
+          <div className="input-wrap">
             <input type="email" placeholder="Email" ref={ref} required />
             <button
               className={`btn rel ${state.loading ? "loading" : "loaded"}`}
@@ -43,9 +48,12 @@ export default () => {
               <div className="loader" />
               <span className="text">Sign up</span>
             </button>
-          </>
-        )}
-      </div>
+          </div>
+          <div>
+            <p className="error">{state.err}</p>
+          </div>
+        </div>
+      )}
     </form>
   )
 }

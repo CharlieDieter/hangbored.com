@@ -196,13 +196,6 @@ header h1 {
 
 section.form {
   padding: 2rem 0;
-  max-width: 600px;
-}
-
-@media (min-width: 576px) {
-  section.form {
-    padding: 6rem 0 10rem;
-  }
 }
 
 section.form h2 {
@@ -223,6 +216,18 @@ form {
   form {
     font-size: 1.4rem;
   }
+
+  section.form {
+    padding: 6rem 0 10rem;
+  }
+
+  section.form h2 {
+    font-size: 3.6rem;
+  }
+}
+
+form .inner-form {
+  flex: 1;
 }
 
 form .input-wrap {
@@ -230,6 +235,7 @@ form .input-wrap {
   width: 100%;
   height: 3em;
   display: flex;
+  flex: 1;
 }
 
 form input {

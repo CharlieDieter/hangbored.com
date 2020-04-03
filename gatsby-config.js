@@ -1,8 +1,8 @@
 module.exports = {
-  // proxy: {
-  //   prefix: "/api",
-  //   url: "http://localhost:3000",
-  // },
+  proxy: {
+    prefix: "/api",
+    url: "http://localhost:3000",
+  },
   siteMetadata: {
     title: `Hangbored`,
     description: `An interval timer app for climbers.`,
