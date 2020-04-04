@@ -40,7 +40,13 @@ export default () => {
       ) : (
         <div className="inner-form">
           <div className="input-wrap">
-            <input type="email" placeholder="Email" ref={ref} required />
+            <input
+              type="email"
+              placeholder="example@hi.com"
+              ref={ref}
+              required
+              aria-label="email"
+            />
             <button
               className={`btn rel ${state.loading ? "loading" : "loaded"}`}
               type="submit"
