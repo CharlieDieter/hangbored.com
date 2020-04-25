@@ -7,7 +7,7 @@ import FormSection from "../components/FormSection"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Hangbored" />
     <Hero />
     <FormSection />
   </Layout>
