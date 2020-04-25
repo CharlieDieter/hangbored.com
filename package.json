@@ -7,6 +7,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "gatsby": "^2.19.45",
+    "gatsby-cli": "^2.11.21",
     "gatsby-image": "^2.2.44",
     "gatsby-plugin-manifest": "^2.2.48",
     "gatsby-plugin-offline": "^3.0.41",
@@ -30,7 +31,6 @@
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop",
-    "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   }
